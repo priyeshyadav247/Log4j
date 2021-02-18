@@ -1,0 +1,12 @@
+2021-02-18 17:11:33,440  INFO [main] LoginTestLog4jAutomation:30 - ****************************** Starting test cases execution  *****************************************
+2021-02-18 17:12:03,527  INFO [main] LoginTestLog4jAutomation:34 - launching chrome broswer
+2021-02-18 17:12:17,622  INFO [main] LoginTestLog4jAutomation:41 - entering application URL
+2021-02-18 17:12:17,638  WARN [main] LoginTestLog4jAutomation:42 - Hey this just a warning message
+2021-02-18 17:12:17,639 FATAL [main] LoginTestLog4jAutomation:43 - hey this is just fatal error message
+2021-02-18 17:12:17,640 DEBUG [main] LoginTestLog4jAutomation:44 - this is debug message
+2021-02-18 17:12:17,728  INFO [main] LoginTestLog4jAutomation:50 - ****************************** starting test case *****************************************
+2021-02-18 17:12:17,729  INFO [main] LoginTestLog4jAutomation:51 - ****************************** freeCrmTitleTest *****************************************
+2021-02-18 17:12:17,847  INFO [main] LoginTestLog4jAutomation:54 - login page title is--->Cogmento CRM
+2021-02-18 17:12:17,883  INFO [main] LoginTestLog4jAutomation:57 - ****************************** ending test case *****************************************
+2021-02-18 17:12:17,883  INFO [main] LoginTestLog4jAutomation:58 - ****************************** freeCrmTitleTest *****************************************
+2021-02-18 17:12:19,222  INFO [main] LoginTestLog4jAutomation:68 - ****************************** Browser is closed *****************************************
